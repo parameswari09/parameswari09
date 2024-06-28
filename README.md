@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parameswari S</h1>
 <h3 align="center">Computer Science And Engineering Under-Graduate</h3>
-<h4 align="center"> 👀 I’m interested in front-end developer<br>
-🌱 I’m currently learning full stack developer(web)<br> currently looking for a job<br></h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parameswari09&label=Profile%20views&color=0e75b6&style=flat" alt="parameswari09" /> </p>
 
