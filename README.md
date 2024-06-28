@@ -1,7 +1,7 @@
-<h1>Hi 👋, I'm Parameswari S</h1>h1></h1><hr>
-Computer Science And Engineering Under-Graduate
-*  👀 I’m interested in front-end developer
-* 🌱 I’m currently learning full stack developer(web)
+<h1>Hello Everyone,this is Parameswari S 👋</h1><hr>
+Computer Science And Engineering Under-Graduate<br>
+*  👀 I’m interested in front-end developer<br>
+* 🌱 I’m currently learning full stack developer(web)<br>
 * 🤵💼 currently looking for a job
 * 📫 How to reach me ...
 
