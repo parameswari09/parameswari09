@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Parameswari S</h1>
-<h3 align="center">Computer Science And Engineering Under-Graduate</h3>
+<h1>Hi 👋, I'm Parameswari S</h1>h1></h1><hr>
+Computer Science And Engineering Under-Graduate
+*  👀 I’m interested in front-end developer
+* 🌱 I’m currently learning full stack developer(web)
+* 🤵💼 currently looking for a job
+* 📫 How to reach me ...
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parameswari09&label=Profile%20views&color=0e75b6&style=flat" alt="parameswari09" /> </p>
