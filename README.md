@@ -3,7 +3,6 @@ Computer Science And Engineering Under-Graduate<br>
 *  👀 I’m interested in front-end developer<br>
 * 🌱 I’m currently learning full stack developer(web)<br>
 * 🤵💼 currently looking for a job<br>
-* 🔭 Here's [my portfolio](file:///D:/project/portfolio/index.html)
 * 📫 How to reach me ...<br>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parameswari06/" target="blank">
 <h3 align="left">Connect with me:</h3>
