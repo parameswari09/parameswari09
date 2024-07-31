@@ -1,7 +1,7 @@
 <h1>Hello Everyone,this is S.Parameswari 👋 </h1>
 <h3>Computer Science And Engineering Under-Graduate</h3>
 *  👀 I’m interested in front-end developer<br>
-* 🔭 Here's [my portfolio](https://parameswari09.github.io/portfolio/) <br>
+* 🔭 Here's <a href="https://parameswari09.github.io/portfolio/">my portfolio</a> <br>
 * 🌱 I’m currently learning full stack developer(web)<br>
 * 🤵💼 currently looking for a job<br>
 * 📫 How to reach me ...<br>
