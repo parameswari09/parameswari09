@@ -1,12 +1,14 @@
-<h1>Hello Everyone,this is Parameswari S 👋</h1>
-Computer Science And Engineering Under-Graduate<br>
+<h1>Hello Everyone,this is S.Parameswari 👋 </h1>
+<h3>Computer Science And Engineering Under-Graduate</h3>
 *  👀 I’m interested in front-end developer<br>
+* 🔭 Here's [my portfolio](https://parameswari09.github.io/portfolio/) <br>
 * 🌱 I’m currently learning full stack developer(web)<br>
 * 🤵💼 currently looking for a job<br>
 * 📫 How to reach me ...<br>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parameswari06/" target="blank">
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parameswari06/" height="30" width="40" /></a>
 </p>
 
